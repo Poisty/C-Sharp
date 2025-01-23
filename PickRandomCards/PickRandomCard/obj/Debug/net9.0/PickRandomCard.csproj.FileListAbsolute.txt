@@ -1,0 +1,15 @@
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\bin\Debug\net9.0\PickRandomCard.exe
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\bin\Debug\net9.0\PickRandomCard.deps.json
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\bin\Debug\net9.0\PickRandomCard.runtimeconfig.json
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\bin\Debug\net9.0\PickRandomCard.dll
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\bin\Debug\net9.0\PickRandomCard.pdb
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\PickRandomCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\PickRandomCard.AssemblyInfoInputs.cache
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\PickRandomCard.AssemblyInfo.cs
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\PickRandomCard.csproj.CoreCompileInputs.cache
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\PickRandomCard.sourcelink.json
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\PickRandomCard.dll
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\refint\PickRandomCard.dll
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\PickRandomCard.pdb
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\PickRandomCard.genruntimeconfig.cache
+C:\Users\fredr\OneDrive\Dokumenter\Programvareutvikling\Programvareutvikling\PickRandomCards\PickRandomCard\obj\Debug\net9.0\ref\PickRandomCard.dll

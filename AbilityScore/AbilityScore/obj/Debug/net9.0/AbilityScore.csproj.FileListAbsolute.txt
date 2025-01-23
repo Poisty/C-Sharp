@@ -1,0 +1,15 @@
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\bin\Debug\net9.0\AbilityScore.exe
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\bin\Debug\net9.0\AbilityScore.deps.json
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\bin\Debug\net9.0\AbilityScore.runtimeconfig.json
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\bin\Debug\net9.0\AbilityScore.dll
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\bin\Debug\net9.0\AbilityScore.pdb
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\AbilityScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\AbilityScore.AssemblyInfoInputs.cache
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\AbilityScore.AssemblyInfo.cs
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\AbilityScore.csproj.CoreCompileInputs.cache
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\AbilityScore.sourcelink.json
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\AbilityScore.dll
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\refint\AbilityScore.dll
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\AbilityScore.pdb
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\AbilityScore.genruntimeconfig.cache
+C:\TSD2491-V25\Csharp\AbilityScore\AbilityScore\obj\Debug\net9.0\ref\AbilityScore.dll
