@@ -1,0 +1,15 @@
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\bin\Debug\net9.0\Kapittel4Elefant.exe
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\bin\Debug\net9.0\Kapittel4Elefant.deps.json
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\bin\Debug\net9.0\Kapittel4Elefant.runtimeconfig.json
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\bin\Debug\net9.0\Kapittel4Elefant.dll
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\bin\Debug\net9.0\Kapittel4Elefant.pdb
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\Kapittel4Elefant.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\Kapittel4Elefant.AssemblyInfoInputs.cache
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\Kapittel4Elefant.AssemblyInfo.cs
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\Kapittel4Elefant.csproj.CoreCompileInputs.cache
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\Kapittel4Elefant.sourcelink.json
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\Kapittel4Elefant.dll
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\refint\Kapittel4Elefant.dll
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\Kapittel4Elefant.pdb
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\Kapittel4Elefant.genruntimeconfig.cache
+C:\C-sharp\C-Sharp\Elephant\Kapittel4Elefant\obj\Debug\net9.0\ref\Kapittel4Elefant.dll
