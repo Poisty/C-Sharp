@@ -1,0 +1,15 @@
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\bin\Debug\net9.0\Hi-Lo.exe
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\bin\Debug\net9.0\Hi-Lo.deps.json
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\bin\Debug\net9.0\Hi-Lo.runtimeconfig.json
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\bin\Debug\net9.0\Hi-Lo.dll
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\bin\Debug\net9.0\Hi-Lo.pdb
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\Hi-Lo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\Hi-Lo.AssemblyInfoInputs.cache
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\Hi-Lo.AssemblyInfo.cs
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\Hi-Lo.csproj.CoreCompileInputs.cache
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\Hi-Lo.sourcelink.json
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\Hi-Lo.dll
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\refint\Hi-Lo.dll
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\Hi-Lo.pdb
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\Hi-Lo.genruntimeconfig.cache
+C:\Users\fredr\USN\Programmering\TSD2491-V25 C#\Hi-Lo\Hi-Lo\obj\Debug\net9.0\ref\Hi-Lo.dll
