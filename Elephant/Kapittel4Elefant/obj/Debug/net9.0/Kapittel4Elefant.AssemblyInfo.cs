@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kapittel4Elefant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8f1229f1947532e1719263a657bd7aa434ede20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a80a4a334c6d9fe1747389f3cdacd154ee7813a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kapittel4Elefant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kapittel4Elefant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

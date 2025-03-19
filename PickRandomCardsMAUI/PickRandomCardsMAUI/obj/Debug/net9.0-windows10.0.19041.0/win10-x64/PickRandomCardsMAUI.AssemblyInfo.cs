@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PickRandomCardsMAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f19532b5a503e2a731afad0abef2a76da9aac345")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+36b33a622a664500c703e437a36d17b1abb4c69a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PickRandomCardsMAUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PickRandomCardsMAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
