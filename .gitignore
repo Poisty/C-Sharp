@@ -1,0 +1,36 @@
+# Ignore everything by default
+*
+
+# Allow only source files
+!*.cs
+!*.xaml
+
+# Ensure folders are still tracked so the allowed files inside them are not ignored
+!*/
+
+# Ignore build output and intermediate files
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Ignore MAUI-specific generated files
+*.nfloat.g.cs
+*.g.cs
+*.g.i.cs
+*.Designer.cs
+
+# Ignore user-specific settings
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+
+# Ignore NuGet packages and dependencies
+packages/
+.nuget/
+*.nupkg
+project.lock.json
+
