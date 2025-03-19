@@ -5,11 +5,11 @@ namespace BeeHiveManagement;
 
 public class HoneyManufacturer : Bee
 {
-    public HoneyManufacturer() : base("Nectar Collector") { }
+    public HoneyManufacturer() : base("Honey Manufacturer") { }
 
     public override decimal CostPerShift
     {
-        get { return Constants.NECTAR_COLLECTOR_COST; }
+        get { return Constants.HONEY_MANUFACTURER_COST; }
     }
 
     public override bool WorkTheNextShift()
